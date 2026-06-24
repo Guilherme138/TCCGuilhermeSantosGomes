@@ -1,4 +1,4 @@
-# TCCGuilhermeSantosGomes
+# TCC Guilherme Santos Gomes
 
 ## Reprodutibilidade e Disponibilização dos Artefatos
 
